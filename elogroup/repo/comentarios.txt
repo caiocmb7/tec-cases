@@ -1,9 +1,0 @@
-variável data em DIM_tempo errado 
-
-deveria usar timestamp ou algo do tipo para esse tipo de situação
-
-variável referencias no ft_vendas deveriam ter outro nome 
-
-daria para transformar a tabela dim_tempo em somente uma usando a variavel
-data, pois ai bastava usar year(), month() para acessar o que fosse necessário
-
